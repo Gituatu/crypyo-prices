@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypyo-prices/static/css/main.19d711ef.css",
+    "main.js": "/crypyo-prices/static/js/main.dc4902a8.js",
+    "index.html": "/crypyo-prices/index.html",
+    "main.19d711ef.css.map": "/crypyo-prices/static/css/main.19d711ef.css.map",
+    "main.dc4902a8.js.map": "/crypyo-prices/static/js/main.dc4902a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d711ef.css",
+    "static/js/main.dc4902a8.js"
+  ]
+}
